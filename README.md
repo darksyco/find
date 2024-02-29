@@ -54,3 +54,14 @@ pip install -r requirements.txt
 ```bash
 python3 Social.py
 ```
+# img
+<p align="center">
+   <img src="https://darksyco.github.io/richcourse.github.io/d/1.jpeg">
+</p>
+
+<p align="center">
+   <img src="https://darksyco.github.io/richcourse.github.io/d/2.jpeg">
+</p>
+<p align="center">
+   <img src="https://darksyco.github.io/richcourse.github.io/d/3.jpeg">
+</p>
