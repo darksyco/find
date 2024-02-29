@@ -44,7 +44,7 @@ pkg install python3
 ```bash
 git clone https://github.com/darksyco/find.git
 ```
-# Ues
+# Use
 ```bash
 cd find
 ```
